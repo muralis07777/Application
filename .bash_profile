@@ -10,3 +10,4 @@ fi
 PATH=$PATH:$HOME/.local/bin:$HOME/bin
 
 export PATH
+export JAVA_HOME=/usr/java/jre1.7.0_241
